@@ -1,0 +1,2 @@
+C:\Users\01117\source\repos\CGUI-master\CGUtilities\obj\Release\CGUtilities.csproj.AssemblyReference.cache
+C:\Users\01117\source\repos\CGUI-master\CGUtilities\obj\Release\CGUtilities.csproj.CoreCompileInputs.cache

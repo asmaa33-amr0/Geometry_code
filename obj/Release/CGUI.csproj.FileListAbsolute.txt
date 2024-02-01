@@ -1,0 +1,10 @@
+C:\Users\01117\source\repos\CGUI-master\CGUI\obj\Release\CGUI.csproj.AssemblyReference.cache
+C:\Users\01117\source\repos\CGUI-master\CGUI\obj\Release\Styles\UIStyles.baml
+C:\Users\01117\source\repos\CGUI-master\CGUI\obj\Release\Styles\DrawingStyle.baml
+C:\Users\01117\source\repos\CGUI-master\CGUI\obj\Release\Styles\ResultStyle.baml
+C:\Users\01117\source\repos\CGUI-master\CGUI\obj\Release\App.baml
+C:\Users\01117\source\repos\CGUI-master\CGUI\obj\Release\MainWindow.g.cs
+C:\Users\01117\source\repos\CGUI-master\CGUI\obj\Release\App.g.cs
+C:\Users\01117\source\repos\CGUI-master\CGUI\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\01117\source\repos\CGUI-master\CGUI\obj\Release\CGUI_MarkupCompile.cache
+C:\Users\01117\source\repos\CGUI-master\CGUI\obj\Release\CGUI_MarkupCompile.lref

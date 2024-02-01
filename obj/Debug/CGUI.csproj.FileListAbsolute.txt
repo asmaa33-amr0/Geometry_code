@@ -1,0 +1,9 @@
+C:\Users\01117\source\repos\CGUI-master\CGUI\obj\Debug\Styles\UIStyles.baml
+C:\Users\01117\source\repos\CGUI-master\CGUI\obj\Debug\Styles\DrawingStyle.baml
+C:\Users\01117\source\repos\CGUI-master\CGUI\obj\Debug\Styles\ResultStyle.baml
+C:\Users\01117\source\repos\CGUI-master\CGUI\obj\Debug\App.baml
+C:\Users\01117\source\repos\CGUI-master\CGUI\obj\Debug\MainWindow.g.cs
+C:\Users\01117\source\repos\CGUI-master\CGUI\obj\Debug\App.g.cs
+C:\Users\01117\source\repos\CGUI-master\CGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\01117\source\repos\CGUI-master\CGUI\obj\Debug\CGUI_MarkupCompile.cache
+C:\Users\01117\source\repos\CGUI-master\CGUI\obj\Debug\CGUI_MarkupCompile.lref
