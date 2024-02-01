@@ -1,0 +1,26 @@
+E:\FCIS\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithmsUnitTest.dll
+E:\FCIS\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithmsUnitTest.pdb
+E:\FCIS\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithms.dll
+E:\FCIS\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGUtilities.dll
+E:\FCIS\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\FCIS\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithms.pdb
+E:\FCIS\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGUtilities.pdb
+E:\FCIS\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.AssemblyReference.cache
+E:\FCIS\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.CoreCompileInputs.cache
+E:\FCIS\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.CopyComplete
+E:\FCIS\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.dll
+E:\FCIS\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.pdb
+C:\Users\Aspire E1-570\Downloads\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithmsUnitTest.dll
+C:\Users\Aspire E1-570\Downloads\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithmsUnitTest.pdb
+C:\Users\Aspire E1-570\Downloads\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithms.dll
+C:\Users\Aspire E1-570\Downloads\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGUtilities.dll
+C:\Users\Aspire E1-570\Downloads\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Aspire E1-570\Downloads\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithms.pdb
+C:\Users\Aspire E1-570\Downloads\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGUtilities.pdb
+C:\Users\Aspire E1-570\Downloads\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csprojAssemblyReference.cache
+C:\Users\Aspire E1-570\Downloads\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Aspire E1-570\Downloads\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.CopyComplete
+C:\Users\Aspire E1-570\Downloads\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.dll
+C:\Users\Aspire E1-570\Downloads\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.pdb
+C:\Users\01117\source\repos\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.AssemblyReference.cache
+C:\Users\01117\source\repos\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.CoreCompileInputs.cache

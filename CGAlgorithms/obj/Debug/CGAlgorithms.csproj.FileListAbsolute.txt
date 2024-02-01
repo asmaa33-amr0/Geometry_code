@@ -1,0 +1,10 @@
+D:\Desktop\CGUI-master\CGAlgorithms\bin\Debug\CGAlgorithms.dll
+D:\Desktop\CGUI-master\CGAlgorithms\bin\Debug\CGAlgorithms.pdb
+D:\Desktop\CGUI-master\CGAlgorithms\bin\Debug\CGUtilities.dll
+D:\Desktop\CGUI-master\CGAlgorithms\bin\Debug\CGUtilities.pdb
+D:\Desktop\CGUI-master\CGAlgorithms\obj\Debug\CGAlgorithms.csproj.AssemblyReference.cache
+D:\Desktop\CGUI-master\CGAlgorithms\obj\Debug\CGAlgorithms.csproj.CoreCompileInputs.cache
+D:\Desktop\CGUI-master\CGAlgorithms\obj\Debug\CGAlgorithms.csproj.CopyComplete
+D:\Desktop\CGUI-master\CGAlgorithms\obj\Debug\CGAlgorithms.dll
+D:\Desktop\CGUI-master\CGAlgorithms\obj\Debug\CGAlgorithms.pdb
+C:\Users\01117\source\repos\CGUI-master\CGAlgorithms\obj\Debug\CGAlgorithms.csproj.CoreCompileInputs.cache

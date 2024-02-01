@@ -1,0 +1,2 @@
+C:\Users\01117\source\repos\CGUI-master\CGAlgorithms\obj\Release\CGAlgorithms.csproj.AssemblyReference.cache
+C:\Users\01117\source\repos\CGUI-master\CGAlgorithms\obj\Release\CGAlgorithms.csproj.CoreCompileInputs.cache
